@@ -11,7 +11,7 @@
   <a href="#description">Description</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#license">License</a>•
-  <a href="https://raeludwig.github.io/Rachels--readme-generator/">Logo Example</a>
+  <a href="[https://raeludwig.github.io/Rachels--readme-generator/](http://127.0.0.1:5501/logo.svg)">Logo Example</a>
 </p>
 
 
@@ -19,9 +19,9 @@
 
 ## Key Features
 
-* This is a quick way to create a readme file
+* This is a quick way to create a SVG logo
   - Once you initialize node index, then it will prompt you to add in the relevant details for your repository.
-* When everything is filled in, you now have a functional and professional readme file. 
+* When everything is filled in, you now have simple SVG logo. 
 
 ## How To Use
 
@@ -29,10 +29,7 @@ To clone and run this application, you'll need VS installed on your computer. Fr
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Raeludwig/Rachels--readme-generator.git
-
-# Go into the repository
-$ cd Rachels--readme-generator
+$ git clone git@github.com:Raeludwig/SVG.git
 
 # Install dependencies
 $ npm install

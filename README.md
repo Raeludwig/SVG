@@ -46,5 +46,5 @@ $ node index
 MIT
 
 ---
-(LINK TO VIDEO https://drive.google.com/file/d/1nNzISE5laI2h0dkywhw6VAOREYMYqXPw/view?usp=sharing) https://raeludwig.github.io/Rachels--readme-generator/
+(LINK TO VIDEO https://watch.screencastify.com/v/HrAwNXu1vLueMLG0IoRt) https://raeludwig.github.io/Rachels--readme-generator/
 Test Readme that was created :https://raeludwig.github.io/Rachels--readme-generator/

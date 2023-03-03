@@ -17,7 +17,7 @@
 
 
 
-## Key Features
+## Description
 
 * This is a quick way to create a SVG logo
   - Once you initialize node index, then it will prompt you to add in the relevant details for your repository.

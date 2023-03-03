@@ -48,3 +48,6 @@ MIT
 ---
 (LINK TO VIDEO https://watch.screencastify.com/v/HrAwNXu1vLueMLG0IoRt) https://raeludwig.github.io/Rachels-SVG-logo-creator/
 
+![image](https://user-images.githubusercontent.com/118871515/222633402-ee1f125c-3e23-4c94-8e9e-d3d32fd14f8d.png)
+
+

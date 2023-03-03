@@ -11,7 +11,7 @@
   <a href="#description">Description</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#license">License</a>•
-  <a href="#examples">Examples</a>•
+  <a href="#examples">Examples</a>
 </p>
 
 

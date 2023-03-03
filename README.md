@@ -46,5 +46,5 @@ $ node index
 MIT
 
 ---
-(LINK TO VIDEO https://watch.screencastify.com/v/HrAwNXu1vLueMLG0IoRt) https://raeludwig.github.io/Rachels--readme-generator/
-Test Readme that was created :https://raeludwig.github.io/Rachels--readme-generator/
+(LINK TO VIDEO https://watch.screencastify.com/v/HrAwNXu1vLueMLG0IoRt) https://raeludwig.github.io/Rachels-SVG-logo-creator/
+
